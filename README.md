@@ -2,7 +2,7 @@
 
 ### :book: Instructions:
 
-To run the application, load `index.html` in a web browser, or view it live [here](https://mohampton.github.io/feed-reader/).  The tests appear at the bottom of the page.
+To run the application, load `index.html` in a web browser, or view it live [here](https://mohampton.github.io/Feed-Reader/).  The tests appear at the bottom of the page.
 
 ### :eyeglasses: Project Overview
 
