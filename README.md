@@ -4,7 +4,7 @@
 
 To run the application, load `index.html` in a web browser, or view it live [here](https://mohampton.github.io/feed-reader/).  The tests appear at the bottom of the page.
 
-#### :eyeglasses: Project Overview
+### :eyeglasses: Project Overview
 
 In this project for the Udacity Front End Web Developer Nanodegree I leveraged [Jasmine](http://jasmine.github.io/) to write tests against a pre-existing application of a RSS feed reader. 
 
