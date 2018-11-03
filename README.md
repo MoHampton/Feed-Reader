@@ -1,4 +1,5 @@
 # Welcome to the Feed-Reader
+![screenshot](img/jasmine-test.gif)
 
 ### :book: Instructions:
 
