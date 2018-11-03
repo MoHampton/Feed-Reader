@@ -1,16 +1,14 @@
 # Welcome to the Feed-Reader
 
-:link: [View Live Project](https://mohampton.github.io/Feed-Reader/)
+### :book: Instructions:
+
+To run the application, load `index.html` in a web browser, or view it live [here](https://mohampton.github.io/feed-reader/).  The tests appear at the bottom of the page.
 
 #### :eyeglasses: Project Overview
 
 In this project for the Udacity Front End Web Developer Nanodegree I leveraged [Jasmine](http://jasmine.github.io/) to write tests against a pre-existing application of a RSS feed reader. 
 
 Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
-
-### :book: Instructions:
-
-To run the application, load `index.html` in a web browser, or view it live [here](https://psittacine.github.io/feed-reader-testing/).  The tests appear at the bottom of the page.
 
 ### :books: References:
 
